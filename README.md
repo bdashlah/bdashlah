@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bdashlah
 - 👀 I’m interested in: learning new languages 
-- 🌱 I’m currently learning: Python 
+- 🌱 I’m currently learning: Python, C
 - 💞️ I’m looking to collaborate on: Fun projects 
 - 📫 How to reach me: isabelauribe07@gmail.com
 - 😄 Pronouns: she/her 
